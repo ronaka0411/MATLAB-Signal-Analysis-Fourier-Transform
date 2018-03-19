@@ -8,4 +8,4 @@ The real part represents the magnitude of that sample and imaginary part represe
 These samples are nothing but different frequencies.
 How do we interprete these frequencies? Now comes into the picture important parameter RESOLUTION of signal, which is given as sampling frequency / number of samples.
 Each sample point in FFT represent a resolution(R). For example first sample is at position 2nd (second figure in the result image), because we do not have anything at the 0 frequency (imaginary concept).
-Signal Analysis: To find out which frequency component contributes maximum to the given signal, find the peak which is at 16th positions, thus maximum frequency of the unknown signal is (15 * RESOLUTION) here in reuslts we get RESOLUTION of ~100, thus maximum frequency of signal is 1500 Hz. Henced the topic. 
+Signal Analysis: To find out which frequency component contributes maximum to the given signal, find the peak which is at 16th positions, thus maximum frequency of the unknown signal is (15 * RESOLUTION) here in reuslts we get RESOLUTION of ~100, thus maximum frequency of signal is 1500 Hz. Hence the topic. 
